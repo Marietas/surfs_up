@@ -4,5 +4,5 @@ The purpose of this project is to provide insightful weather data, specifically 
 
 ### Resources applied
 To develop this analysis the following resources were applied:
-- (i)	Platform: Anaconda, Jupyter Notebook, VSC, Python, Numpy, Pandas, and SQLite
-- (ii)	File with the weather data: Hawaii.SQLite – to access the data, please click here
+- Platform: Anaconda, Jupyter Notebook, VSC, Python, Numpy, Pandas, and SQLite
+- File with the weather data: Hawaii.SQLite – to access the data, please click here
