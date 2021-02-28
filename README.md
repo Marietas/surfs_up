@@ -9,3 +9,6 @@ To develop this analysis the following resources were applied:
 
 # Results
 
+I used Python to develop the code to analyze and evaluate the temperature trends in Oahu for June and December. The data includes 1700 records for June 1517 for December. 
+
+Throughout this analysis, we could observe the following information for both months: Maximum and minimum temperatures and the average value and the standard deviation for the same period.
