@@ -20,3 +20,9 @@ Fig June
 - Data Outlined for December
 
 Fig December
+
+Overall, the results show that the temperature’s average is around 75F  for June, while in December, it is 71F deg. 
+
+The standard deviation calculated for December is slightly higher than  June, which reveals that the temperatures in December are not as stable as the ones in June.
+
+Moreover, we can notice that the temperatures (maximum and Minimum) in June are higher than in December. 
