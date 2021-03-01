@@ -15,7 +15,7 @@ Throughout this analysis, we could observe the following information for both mo
 
 - Data outlined For June
 
-Fig June
+![](https://github.com/Marietas/surfs_up/blob/main/Resources/Summary%20June.PNG)
 
 - Data Outlined for December
 
