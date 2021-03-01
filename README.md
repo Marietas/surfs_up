@@ -20,6 +20,7 @@ Throughout this analysis, we could observe the following information for both mo
 - Data Outlined for December
 
 ![](https://github.com/Marietas/surfs_up/blob/main/Resources/Summary%20December.PNG)
+![](https://github.com/Marietas/surfs_up/blob/main/Resources/Dec%20Precipitation.PNG)
 
 Overall, the results show that the temperature’s average is around 75F  for June, while in December, it is 71F deg. 
 
