@@ -9,7 +9,7 @@ To develop this analysis the following resources were applied:
 
 # Results
 
-I used Python to develop the code to analyze and evaluate the temperature trends in Oahu for June and December. The data includes 1700 records for June 1517 for December. 
+I used Python to develop the [code](https://github.com/Marietas/surfs_up/blob/main/SurfsUp_Challenge.ipynb) to analyze and evaluate the temperature trends in Oahu for June and December. The data includes 1700 records for June 1517 for December. 
 
 Throughout this analysis, we could observe the following information for both months: **Maximum** and **Minimum** temperatures and the **Average value** and the **Standard Deviation** for the same period.
 
