@@ -14,11 +14,11 @@ We used Python to develop the [code](https://github.com/Marietas/surfs_up/blob/m
 
 Throughout this analysis, we could observe the following information for both months: **Maximum** and **Minimum** temperatures and the **Average value** and the **Standard Deviation** for the same period.
 
-- Summary of temperature in June
+**Summary of temperature in June
 
 ![](https://github.com/Marietas/surfs_up/blob/main/Resources/Summary%20June.PNG)
 
-- Summary of temperature in December
+**Summary of temperature in December
 
 ![](https://github.com/Marietas/surfs_up/blob/main/Resources/Summary%20December.PNG)
 
@@ -34,7 +34,7 @@ The data obtained shows that temperatures in  December tend to be a little lower
 
 However, to support this decision, we have added precipitation data to the analysis. Data includes records for June and December from 2010 to 2017. 
 
-Summary of Precipitation
+**Summary of Precipitation
 
 ![](https://github.com/Marietas/surfs_up/blob/main/Resources/June%20Precipitation.PNG)
 ![](https://github.com/Marietas/surfs_up/blob/main/Resources/Dec%20Precipitation.PNG)
