@@ -5,7 +5,7 @@ The purpose of this project is to provide insightful weather data, specifically 
 ### Resources applied
 To develop this analysis the following resources were applied:
 - Platform: Anaconda, Jupyter Notebook, VSC, Python, Numpy, Pandas, and SQLite
-- File with the weather data: Hawaii.SQLite – to access the data, please click [here](https://github.com/Marietas/surfs_up/blob/main/hawaii.sqlite)
+- File with the weather data: Hawaii.SQLite – to access the data, please click [here](https://github.com/Marietas/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 # Results
 
@@ -34,3 +34,10 @@ The data obtained shows that temperatures in  December tend to be a little lower
 However, to support this decision, we have added precipitation data to the analysis. Data includes records for June and December from 2010 to 2017. 
 
 Precipitation data are shown below
+
+From this analysis, we can highlight the following points:
+
+- December tends to present days with heavy rainfall.  The max value measured in a single day for this month is 6.42 versus 4.43 in a day measured in June.
+- The precipitation average in June is 0.136 per day, while in December, this number reaches 0.217.
+- The data show that there is no rainfall over 25% of both moths. 
+
