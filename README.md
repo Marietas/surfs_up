@@ -29,6 +29,8 @@ Moreover, we can notice that the temperatures (maximum and Minimum) in June are 
 
 # Summary
 
-The data obtained shows that temperatures in  December tend to be lower than the ones in June. At first glance, this difference indicates that it could be a favorable decision to invest in an Ice-cream and Surf shop business in this specific location.
+The data obtained shows that temperatures in  December tend to be a little lower than those in June.  At first glance, this slight difference indicates that it could be a favorable decision to invest in an Ice-cream and Surf shop business in this specific location.
 
 However, to support this decision, we have added precipitation data to the analysis. Data includes records for June and December from 2010 to 2017. 
+
+Precipitation data are shown below
