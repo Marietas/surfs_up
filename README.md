@@ -5,7 +5,7 @@ The purpose of this project is to provide insightful weather data, specifically 
 ### Resources applied
 To develop this analysis the following resources were applied:
 - Platform: Anaconda, Jupyter Notebook, VSC, Python, Numpy, Pandas, and SQLite
-- File with the weather data: Hawaii.SQLite – to access the data, please click [here](https://github.com/Marietas/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+- File with the weather data: Hawaii.SQLite – to access the data, please click [here](https://github.com/Marietas/surfs_up/blob/main/hawaii.sqlite)
 
 # Results
 
