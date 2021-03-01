@@ -14,11 +14,11 @@ We used Python to develop the [code](https://github.com/Marietas/surfs_up/blob/m
 
 Throughout this analysis, we could observe the following information for both months: **Maximum** and **Minimum** temperatures and the **Average value** and the **Standard Deviation** for the same period.
 
-- Data outlined for June
+- Summary of temperature in June
 
 ![](https://github.com/Marietas/surfs_up/blob/main/Resources/Summary%20June.PNG)
 
-- Data outlined for December
+- Summary of temperature in December
 
 ![](https://github.com/Marietas/surfs_up/blob/main/Resources/Summary%20December.PNG)
 
