@@ -1,15 +1,16 @@
 # Overview of the analysis
 
-The purpose of this project is to provide insightful weather data, specifically for June and December, to determine the sustainability and profitability of a year-round Surf and Ice Cream shop in Oahu, Hawaii.  For this analysis, I used weather trends from 2010 to 2017.
+The purpose of this project is to provide insightful weather data, specifically for June and December, to determine the sustainability and profitability of a year-round Surf and Ice Cream shop in Oahu, Hawaii.  For this analysis, we used weather trends from 2010 to 2017.
 
 ### Resources applied
 To develop this analysis the following resources were applied:
+
 - Platform: Anaconda, Jupyter Notebook, VSC, Python, Numpy, Pandas, and SQLite
 - File with the weather data: Hawaii.SQLite – to access the data, please click [here](https://github.com/Marietas/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 # Results
 
-I used Python to develop the [code](https://github.com/Marietas/surfs_up/blob/main/SurfsUp_Challenge.ipynb) to analyze and evaluate the temperature trends in Oahu for June and December. The data includes 1700 records for June 1517 for December. 
+We used Python to develop the [code](https://github.com/Marietas/surfs_up/blob/main/SurfsUp_Challenge.ipynb) to analyze and evaluate the temperature trends in Oahu for June and December. The data includes 1700 records for June 1517 for December. 
 
 Throughout this analysis, we could observe the following information for both months: **Maximum** and **Minimum** temperatures and the **Average value** and the **Standard Deviation** for the same period.
 
@@ -45,3 +46,4 @@ From this analysis, we can highlight the following points:
 - The precipitation average in June is 0.136 per day, while in December, this number reaches 0.217.
 - The data show that there is no rainfall over 25% of both moths. 
 
+After considering the results of the analysis for both the temperature and precipitation, we can conclude that weather conditions are favorable to open a sustainable year-round surf and ice cream shop in Oahu.
